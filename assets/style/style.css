@@ -1,0 +1,79 @@
+header {
+    background-color: #ffffff;
+    height: 66px;
+    margin-top: -8px;
+    padding: 5px;
+    border-bottom: gray;
+    position: relative;
+}
+
+.navbar-brand {
+    margin-top: 10px;
+    margin-left: 45px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: "Georgia", Times, Times New Roman, serif;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    font-size: 32px;
+}
+
+ul {
+    margin-top: 0px;
+    margin-right: 80px;
+    padding: 5px;
+    float: right;
+}
+
+.nav-item {
+    display: inline;
+    float: right;
+    color: #cccccc;
+    margin-right: 20px;
+    margin-top: 20px;
+    float: right;
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.container {
+    background: url("./assets/images/old_map.png") repeat fixed;
+    width: 960px;
+}
+
+.boxed {
+    border: 1px solid black;
+     width: 500px;
+    padding: 20px;
+    background-color: #ffffff;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    float: left;
+}
+        
+.headshot {
+    display: inline-block;
+}
+
+h2 {
+    color: #4aaaa5;
+    font-family: "Georgia", Times, Times New Roman, serif;
+    margin-bottom: 20px;
+    border-bottom: solid gray 1px;
+    font-size: 24px;
+}
+
+p {
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.boxed-connect {
+    border: 1px solid black;
+    background-color: #ffffff;
+    width: 270px;
+    text-align: center;
+    padding: 30px 40px;
+    float: right;
+    margin-right: 50px;
+    margin-top: 30px;
