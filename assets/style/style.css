@@ -131,3 +131,69 @@ form {
     display: block;
     width: 450px;
 }
+
+
+.cybersecurity {
+    float: left;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: "Georgia", Times, Times New Roman, serif;
+    margin-bottom: 20px;
+    border: solid black 1px;
+}
+
+.phr {
+    float: right;
+    text-align: center; 
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: "Georgia", Times, Times New Roman, serif;
+    width: 200px;
+    margin-bottom: 20px;
+    border: solid black 1px;
+}
+
+.healthy {
+    float: left;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: "Georgia", Times, Times New Roman, serif;
+    width: 200px;
+    margin-bottom: 20px;
+    border: solid black 1px;
+}
+
+.steam {
+    float: right;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: "Georgia", Times, Times New Roman, serif;
+    width: 200px;
+    margin-bottom: 20px;
+    border: solid black 1px;
+}
+
+.video {
+    float: left;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: "Georgia", Times, Times New Roman, serif;
+    width: 200px;
+    margin-bottom: 20px;
+    border: solid black 1px;
+}
+
+.sustainability {
+    float: right;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: "Georgia", Times, Times New Roman, serif;
+    width: 200px;
+    margin-bottom: 20px;
+    border: solid black 1px;
+}
